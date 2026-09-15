@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+
+# Native build output
+android/
+ios/
+
+# Metro
+.metro-health-check*
+
+# Debug / logs
+npm-debug.*
+*.log
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.*

@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ConnectX",
+    "slug": "connectx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F8FAFC",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chatconnect.connectx"
+    },
+    "android": {
+      "package": "com.chatconnect.connectx",
+      "adaptiveIcon": {
+        "backgroundColor": "#F8FAFC"
+      }
+    }
+  }
+}
